@@ -1,0 +1,6 @@
+export const IS_LOGGED_IN = "IS_LOGGED_IN";
+export const SIGN_UP_LOADING = "SIGN_UP_LOADING";
+export const TOKEN = "TOKEN";
+export const MENU_ITEM_REQUEST = "MENU_ITEM_REQUEST";
+export const MENU_ITEM_RESPONSE = "MENU_ITEM_RESPONSE";
+export const UPDATE_PROFILE = "UPDATE_PROFILE";
